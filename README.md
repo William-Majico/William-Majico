@@ -8,7 +8,7 @@
 
 ## 🛠 Tecnologías
 
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS" style="margin: 0 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="50" title="Astro" style="margin: 0 10px;"/>
